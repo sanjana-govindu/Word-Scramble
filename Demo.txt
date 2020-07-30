@@ -1,0 +1,9 @@
+The gameplay is so simple and easy. The main game screen displays the random letters at the right and a textfield is provided at the center of the screen. T
+he user need to guess the word by typing it in the textfield and pressing the ‘Guess Word’ Button. Additionally, the game displays the count of total no.of words 
+that are present and the count of no.of words already guessed in a particular level.
+
+The score is shown at the bottom of the window. If the user guesses the correct word then the score increases by 5 points, else decreases by 1 point.
+The total score is then saved in a file at the end of the game. The main menu displays three options- Instructions, Start Game, High Scores.
+Selecting ‘instructions’ will take the user to the instructions window where the instructions to play the game are mentioned.
+Selecting ‘start game’ will start the main game .
+Selecting ‘high scores’ will show the high scores which are achieved in the previous
